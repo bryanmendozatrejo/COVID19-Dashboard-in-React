@@ -21,4 +21,4 @@ Eric Minh | ericminhhn@csu.fullerton.edu
 
 Timothy Bui | timothybui98@csu.fullerton.edu
 
-Video Link | 
+Video Link | https://youtu.be/gdgzIXCtccY
