@@ -8,6 +8,9 @@ export const Container = styled.header`
   height: 100px;
   justify-content: center;
   align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
 `;
 
 export const activeClassName = 'active';
