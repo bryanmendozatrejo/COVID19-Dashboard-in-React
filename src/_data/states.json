@@ -1,0 +1,282 @@
+[
+  {
+    "id": "alaska",
+    "short": "ak",
+    "image": "StateIcons/alaska-flag.png"
+  },
+  {
+    "id": "alabama",
+    "short": "al",
+    "image": "StateIcons/alabama-flag.png"
+  },
+  {
+    "id": "arkansas",
+    "short": "ar",
+    "image": "StateIcons/arkansas-flag.png"
+  },
+  {
+    "id": "american somoa",
+    "short": "as",
+    "image": "StateIcons/americansomoa-flag.png"
+  },
+  {
+    "id": "arizona",
+    "short": "az",
+    "image": "StateIcons/arizona-flag.png"
+  },
+  {
+    "id": "california",
+    "short": "ca",
+    "image": "StateIcons/california-flag.png"
+  },
+  {
+    "id":"colorado",
+    "short":"co",
+    "image": "StateIcons/colorado-flag.png"
+  },
+  {
+    "id":"connecticut",
+    "short":"ct",
+    "image":"StateIcons/connecticut-flag.png"
+  },
+  {
+    "id": "district of columbia",
+    "short": "dc",
+    "image": "StateIcons/districtofcolumbia-flag.svg"
+  },
+  {
+    "id":"delaware",
+    "short":"de",
+    "image":"StateIcons/delaware-flag.png"
+  },
+  {
+    "id":"florida",
+    "short":"fl",
+    "image":"StateIcons/florida-flag.png"
+  },
+  {
+    "id":"georgia",
+    "short":"ga",
+    "image":"StateIcons/georgia-flag.png"
+  },
+  {
+    "id":"guam",
+    "short":"gu",
+    "image":"StateIcons/guam-flag.png"
+  },
+  {
+    "id":"hawaii",
+    "short":"hi",
+    "image":"StateIcons/hawaii-flag.png"
+  },
+  {
+    "id":"iowa",
+    "short":"ia",
+    "image":"StateIcons/iowa-flag.png"
+  },
+  {
+    "id":"idaho",
+    "short":"id",
+    "image":"StateIcons/idaho-flag.png"
+  },
+  {
+    "id":"illinois",
+    "short":"il",
+    "image":"StateIcons/illinois-flag.png"
+  },
+  {
+    "id":"indiana",
+    "short":"in",
+    "image":"StateIcons/indiana-flag.png"
+  },
+  {
+    "id":"kansas",
+    "short":"ks",
+    "image":"StateIcons/kansas-flag.png"
+  },
+  {
+    "id":"kentucky",
+    "short":"ky",
+    "image":"StateIcons/kentucky-flag.png"
+  },
+  {
+    "id":"louisana",
+    "short":"la",
+    "image":"StateIcons/louisiana-flag.png"
+  },
+  {
+    "id":"massachusetts",
+    "short":"ma",
+    "image":"StateIcons/massachusetts-flag.png"
+  },
+  {
+    "id":"maryland",
+    "short":"md",
+    "image":"StateIcons/maryland-flag.png"
+  },
+  {
+    "id":"maine",
+    "short":"me",
+    "image":"StateIcons/maine-flag.png"
+  },
+  {
+    "id":"michigan",
+    "short":"mi",
+    "image":"StateIcons/michigan-flag.png"
+  },
+  {
+    "id":"minnesota",
+    "short":"mn",
+    "image":"StateIcons/minnesota-flag.png"
+  },
+  {
+    "id":"missouri",
+    "short":"mo",
+    "image":"StateIcons/missouri-flag.png"
+  },
+  {
+    "id":"Northern Marianas",
+    "short":"mp",
+    "image":"StateIcons/northernmarianas-flag.png"
+  },
+  {
+    "id":"mississippi",
+    "short":"ms",
+    "image":"StateIcons/mississippi-flag.png"
+  },
+  {
+    "id":"montana",
+    "short":"mt",
+    "image":"StateIcons/montana-flag.png"
+  },
+  {
+    "id":"north carolina",
+    "short":"nc",
+    "image":"StateIcons/northcarolina-flag.png"
+  },
+  {
+    "id":"north dakota",
+    "short":"nd",
+    "image":"StateIcons/northdakota-flag.png"
+  },
+  {
+    "id":"nebraska",
+    "short":"ne",
+    "image":"StateIcons/nebraska-flag.png"
+  },
+  {
+    "id":"new hampshire",
+    "short":"nh",
+    "image":"StateIcons/newhampshire-flag.png"
+  },
+  {
+    "id":"new jersey",
+    "short":"nj",
+    "image":"StateIcons/newjersey-flag.png"
+  },
+  {
+    "id":"new mexico",
+    "short":"nm",
+    "image":"StateIcons/newmexico-flag.png"
+  },
+  {
+    "id":"nevada",
+    "short":"nv",
+    "image":"StateIcons/nevada-flag.png"
+  },
+  {
+    "id":"new york",
+    "short":"ny",
+    "image":"StateIcons/newyork-flag.png"
+  },
+  {
+    "id":"ohio",
+    "short":"oh",
+    "image":"StateIcons/ohio-flag.png"
+  },
+  {
+    "id":"oklahoma",
+    "short":"ok",
+    "image":"StateIcons/oklahoma-flag.png"
+  },
+  {
+    "id":"oregon",
+    "short":"or",
+    "image":"StateIcons/oregon-flag.png"
+  },
+  {
+    "id":"pennsylvania",
+    "short":"pa",
+    "image":"StateIcons/pennsylvania-flag.png"
+  },
+  {
+    "id": "puerto rico",
+    "short":"pr",
+    "image":"StateIcons/puertorico-flag.png"
+  },
+  {
+    "id":"rhode island",
+    "short":"ri",
+    "image":"StateIcons/rhodeisland-flag.png"
+  },
+  {
+    "id":"south carolina",
+    "short":"sc",
+    "image":"StateIcons/southcarolina-flag.png"
+  },
+  {
+    "id":"south dakota",
+    "short":"sd",
+    "image":"StateIcons/southdakota-flag.png"
+  },
+  {
+    "id":"tennessee",
+    "short":"tn",
+    "image":"StateIcons/tennessee-flag.png"
+  },
+  {
+    "id":"texas",
+    "short":"tx",
+    "image":"StateIcons/texas-flag.png"
+  },
+  {
+    "id":"utah",
+    "short":"ut",
+    "image":"StateIcons/utah-flag.png"
+  },
+  {
+    "id":"virginia",
+    "short":"va",
+    "image":"StateIcons/virginia-flag.png"
+  },
+  {
+    "id":"virgin islands",
+    "short":"vi",
+    "image":"StateIcons/virginislands-flag.png"
+  },
+  {
+    "id":"vermont",
+    "short":"vt",
+    "image":"StateIcons/vermont-flag.png"
+  },
+  {
+    "id":"washington",
+    "short":"wa",
+    "image":"StateIcons/washington-flag.png"
+  },
+  {
+    "id":"wisconsin",
+    "short":"wi",
+    "image":"StateIcons/wisconsin-flag.png"
+  },
+  {
+    "id":"west virginia",
+    "short":"wv",
+    "image":"StateIcons/westvirginia-flag.png"
+  },
+  {
+    "id":"wyoming",
+    "short":"wy",
+    "image":"StateIcons/wyoming-flag.png"
+  }
+]
