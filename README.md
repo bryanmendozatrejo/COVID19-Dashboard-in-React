@@ -1,1 +1,7 @@
 # COVID19-Dashboard-in-React
+
+npm install
+
+npm install react-globe countup axios react-chartjs-2 react-dom @material-ui/core react-router-dom react-scripts
+
+npm start
