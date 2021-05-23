@@ -2,6 +2,6 @@
 
 npm install
 
-npm install react-globe countup axios react-chartjs-2 react-dom @material-ui/core react-router-dom react-scripts
+npm install react-globe react-countup classnames axios react-chartjs-2 react-dom @material-ui/core react-router-dom react-scripts chart.js
 
 npm start
