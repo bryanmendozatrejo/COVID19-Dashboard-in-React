@@ -7,7 +7,7 @@ import Globe from './pages/Globe/Globe.jsx';
 
 import { fetchData } from './api';
 // import coronaImage from './images/image.png';
-import {Cards, Chart, CountryPicker} from './components';
+import {Cards, Chart, CountryPicker, Footer} from './components';
 import styles from './App.module.css';
 
 class App extends React.Component {
@@ -42,12 +42,24 @@ class App extends React.Component {
                               <Cards data={data}/>
                               <CountryPicker handleCountryChange={this.handleCountryChange}/>
                               <Chart data={data} country={country}/>
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
                           </div>
                       </Route>
                       <Route path="/">
                           <Globe />
                       </Route>
                   </Switch>
+                  
+                  <Footer />
           </Router>
       )
   }
